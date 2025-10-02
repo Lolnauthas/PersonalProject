@@ -1,0 +1,2 @@
+/Engine/Transient.World_2:PersistentLevel.BP_FirstPersonCharacter_C_0
+/Game/UnrealDefaults/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C

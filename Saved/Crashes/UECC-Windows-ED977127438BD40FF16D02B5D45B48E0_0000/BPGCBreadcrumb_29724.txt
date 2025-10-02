@@ -1,0 +1,2 @@
+/Game/UnrealDefaults/FirstPerson/Blueprints/BP_FirstPersonCharacter.Default__BP_FirstPersonCharacter_C
+/Game/UnrealDefaults/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
