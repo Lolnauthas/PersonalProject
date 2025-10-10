@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/u2046219/OneDrive - University of East London/DESKTOP/repo_Blueprints/PersonalProject/Content/Blueprints/FirstPerson/Components/BPC_InventoryComponent.uasset",
+				"C:/Users/u2046219/OneDrive - University of East London/DESKTOP/repo_Blueprints/PersonalProject/Content/Blueprints/Widgets/UIPlayer/Inventory/WBP_SideInventory.uasset",
+				"C:/Users/u2046219/OneDrive - University of East London/DESKTOP/repo_Blueprints/PersonalProject/Content/Blueprints/Widgets/UIPlayer/Inventory/WBP_InventorySlot.uasset",
+				"C:/Users/u2046219/OneDrive - University of East London/DESKTOP/repo_Blueprints/PersonalProject/Content/Blueprints/Garden/BP_GardenBed.uasset",
+				"C:/Users/u2046219/OneDrive - University of East London/DESKTOP/repo_Blueprints/PersonalProject/Content/Blueprints/FirstPerson/Player/BP_FirstPersonCharacter.uasset",
+				"C:/Users/u2046219/OneDrive - University of East London/DESKTOP/repo_Blueprints/PersonalProject/Content/Blueprints/Garden/BP_PlantCrop.uasset",
 				"D:/Unreal/UE_5.4/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"D:/Unreal/Projects/GalaxyCornerShop/PersonalProject/Content/Blueprints/Garden/BP_PlantCrop.uasset",
 				"D:/Unreal/Projects/GalaxyCornerShop/PersonalProject/Content/Blueprints/Garden/BP_GardenBed.uasset",
